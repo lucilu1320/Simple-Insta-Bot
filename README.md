@@ -1,4 +1,5 @@
-# Simple-Insta-Bot-Introduction
+# Simple-Insta-Bot
+  # Introduction
 [*] This is a simple IG bot coded in python3!
 [*]Currently it just follows an user.
 [*]I will be adding tons of features in future like:
@@ -20,6 +21,7 @@
    
    EVERYTHING WILL BE APPRECIATED!
  # Requirements.txt
- [*]This is the file which will install all the modules required 
+ pip3 install selenium
+ pip3 install configparser
  
  Thanking You!
