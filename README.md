@@ -23,10 +23,11 @@
 # config.ini
 
    [*] Configure here your account details for logging in
-    *** Once You Open this File You will understand where to make the changes
+   
+   *** Once You Open this File You will understand where to make the changes
 
    [*] Now This is the most important thing for the bot i.e configuring the drivers according to your browser now i've used firefox so i 've specified
-    geckodriver in the config.ini file,if your using chrome please download chrome driver and use the bot
+    geckodriver in the config.ini file,if you're using chrome please download chrome driver and use the bot
     Please dont hesitate at all to open issues and help.
    
    ******EVERYTHING WILL BE APPRECIATED!*******
